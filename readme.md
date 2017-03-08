@@ -1,4 +1,4 @@
-* HW5 – {Trivia Game}
+# HW5 – {Trivia Game}
 Homework week 5 for UCLA Coding BootCamp.
 This assignment is a Trivia Game, in which one question is displayed until the player answers it or their time runs out.
 
