@@ -1,0 +1,65 @@
+body {
+	background-image: url("https://cdn.shutterstock.com/shutterstock/videos/11735462/thumb/8.jpg");
+	font-family: 'Diplomata SC', cursive;
+	font-weight: bold;
+}
+
+#triviaQuestionSection {
+	margin-left: 150px;
+	margin-right: 150px;
+}
+
+#topimg {
+	margin: 0 auto;
+	width: 30%;
+}
+
+#start {
+	color: #ff0000;
+}
+
+#welcome h3 {
+	background-color: #fff200;
+	font-weight: bold;
+	margin: 0 auto;
+	width: 70%;
+}
+
+#answerStatus h3 {
+	/*margin: 0 auto;*/
+	text-align: center;
+	background-color: #ffffff;
+}
+
+#welcome img {
+	width: 15%;
+	margin: 0 auto;
+	vertical-align: middle
+}
+
+#buttons {
+	margin-top: 0px;
+}
+
+#questionHeader {
+	background-color: #fff200;
+	color: #000000;
+}
+
+#listOfQues {
+	margin: 0 auto;
+	width: 70%;
+}
+
+#answerSection h3 {
+	background-color: #fff200;
+	font-weight: bold;
+	margin: 0 auto;
+	width: 70%;
+}
+
+#timer {
+	background-color: #ffffff;
+	width: 30%;
+	font-weight: bold;
+}
